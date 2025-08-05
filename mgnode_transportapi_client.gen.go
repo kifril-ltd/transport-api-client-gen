@@ -108,6 +108,7 @@ const (
 	ChannelTypeDrom          ChannelType = "drom"
 	ChannelTypeFbmessenger   ChannelType = "fbmessenger"
 	ChannelTypeInstagram     ChannelType = "instagram"
+	ChannelTypeMax           ChannelType = "max"
 	ChannelTypeMegaMarket    ChannelType = "mega_market"
 	ChannelTypeOdnoklassniki ChannelType = "odnoklassniki"
 	ChannelTypeOzon          ChannelType = "ozon"
@@ -131,6 +132,7 @@ func (ChannelType) EnumValues() []string {
 		string(ChannelTypeDrom),
 		string(ChannelTypeFbmessenger),
 		string(ChannelTypeInstagram),
+		string(ChannelTypeMax),
 		string(ChannelTypeMegaMarket),
 		string(ChannelTypeOdnoklassniki),
 		string(ChannelTypeOzon),
