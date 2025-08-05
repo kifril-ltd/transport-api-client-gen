@@ -16,7 +16,7 @@ A Go client library for interacting with the Message Gateway Transport API. This
 
 ```bash
 go get github.com/kifril-ltd/transport-api-client-gen
-```
+```1
 
 ## Usage
 
