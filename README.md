@@ -15,7 +15,7 @@ A Go client library for interacting with the Message Gateway Transport API. This
 ## Installation
 
 ```bash
-go get github.com/kifril-ltd/trabsport-api-client-gen
+go get github.com/kifril-ltd/transport-api-client-gen
 ```
 
 ## Usage
