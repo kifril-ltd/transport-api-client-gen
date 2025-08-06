@@ -167,7 +167,7 @@ if uploadResp.JSON200 != nil {
 }
 ```
 
-## Error Handling
+## Error Handling1
 
 The client provides detailed error responses that can be handled as follows:
 
