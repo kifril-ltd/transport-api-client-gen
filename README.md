@@ -10,7 +10,7 @@ A Go client library for interacting with the Message Gateway Transport API. This
   - Template management (activation, deactivation, updates)
   - Message operations (sending, editing, deleting)
   - File handling (uploading, retrieving)
-  - Message reactions and read status management
+  - Message reactions and read status management1
 
 ## Installation
 
