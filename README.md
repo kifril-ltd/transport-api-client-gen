@@ -11,7 +11,6 @@ A Go client library for interacting with the Message Gateway Transport API. This
   - Message operations (sending, editing, deleting)
   - File handling (uploading, retrieving)
   - Message reactions and read status management
-  - User and member management (adding, removing, updating)
 
 ## Installation
 
