@@ -103,7 +103,7 @@ if resp.JSON200 != nil {
     log.Printf("Message sent with ID: %s", resp.JSON200.MessageID)
 }
 ```
-1
+
 #### Working with Templates
 
 ```go
